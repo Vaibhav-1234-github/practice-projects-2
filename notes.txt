@@ -1,0 +1,36 @@
+>Important links for the given assignment : 
+
+
+>> link for the assignment page : (https://s3.amazonaws.com/module-non-videos/assignment_1%20html%20n%20css%20(5)_p7i_kavr0zw.pdf)
+
+
+>>link for the page design : :(https://app.zeplin.io/project/60596ed6123d8208426090b9/screen/60596f6588b65f1384912580)
+
+>>link for user story : (https://www.pivotaltracker.com/n/projects/2444925/stories/172476024)
+
+
+
+Doubts ;  this is the first doubt we are having  : if the parent is absolutely positioned ,and child also , and parent has 
+a circular shape , how to fix the position of the child element
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Restaurant serach page</title>
+        <link  href="./main.css" rel="stylesheet">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class = "Top-naivgation-bar">
+            <div class = "logo">
+                <h3 class = "logo-styles">e!</h3>
+            </div>
+        </div>
+        
+
+    </body>
+</html>

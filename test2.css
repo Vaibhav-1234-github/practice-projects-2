@@ -1,0 +1,44 @@
+.box-1{
+
+height : 400px;
+width : 400px;
+border : 2px solid red;
+background-color : red;
+position :relative;
+}
+
+
+.box-2{
+height : 300px;
+width : 300px;
+border : 2px solid green;
+background-color : green;
+
+}
+
+
+.box-3{
+
+    height : 200px;
+    width : 200px;
+    border : 2px solid blue;
+    background-color : blue;
+    position : absolute;
+    right : 0px;
+    bottom : 0px;
+    
+
+}
+
+
+.box-4{
+
+    height : 100px;
+    width : 100px;
+    border : 2px solid pink;
+    background-color : pink;
+    position: absolute;
+    right : 0px;
+    
+
+}

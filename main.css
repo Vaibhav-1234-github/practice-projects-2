@@ -1,0 +1,388 @@
+body{
+    margin : 0;
+    padding: 0;
+    height: 130vh;
+}
+
+.Top-naivgation-bar{
+    width: 100%;
+    height: 80px;
+    background-color: #ce0505;
+    position : relative;
+}
+
+
+.logo{
+     position : absolute;
+     width: 52px;
+     height: 52px;
+     background-color: #ffffff;
+     border-radius: 50%;
+     left : 112px;
+     top : 10px;
+}
+
+
+.logo-styles{
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: normal;
+    text-align: center;
+    color: #eb2929;
+    margin:0;
+
+}
+
+
+.login-button{
+    position: absolute;
+    left : 1015px;
+    top : 14px;
+}
+
+
+.login-heading{
+        width: 43px;
+        height: 23px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.56;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+}
+
+
+
+.signup-button{
+    width: 181px;
+    height: 46px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    position  : absolute;
+    left : 1120px;
+    top : 17px;
+}
+
+
+.signup-heading{
+        width: 152px;
+        height: 23px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+        margin: 0;
+        padding-left: 10px;
+        padding-top: 10px;
+}
+
+
+.Tagline-design{
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: bolder;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        position : absolute;
+        left: 120px;
+        top: 80px;
+}
+
+
+.filter-section-box{
+    position : relative;
+    top: 100px;
+    left: 120px;
+    width: 260px;
+    height: 600px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color:#ffffff;  
+
+}
+
+
+.filter-headline{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position : absolute;
+    left: 40px;
+}
+
+
+
+.select-location-headline{
+    width: 106px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 200px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position : absolute;
+    top : 40px;
+    left : 40px;
+}
+
+
+.location-search-position{
+    position: absolute;
+    top: 84px;
+    left: 40px;
+}
+
+
+
+.location-box-design{
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #8c96ab;
+  padding-right: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+
+
+
+.heading{
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 150px;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+
+}
+
+
+.heading-title-style{
+    position : absolute;
+    top : 120px;
+    left  : 40px;
+}
+
+
+
+.checkbox-options{
+    border-radius: 1.5px;
+    border: solid 1.5px #3a5075;
+}
+
+
+.cuisine-menu{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-bottom: 5px;
+
+    
+}
+
+
+
+.cost-for-two-options{
+    position :absolute;
+    top : 310px;
+    left : 40px;
+}
+
+
+
+.sort-options{
+    position : absolute;
+    top : 480px;
+    left : 40px;
+}
+
+
+.Shop{
+    width: 720px;
+    height: 265px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color : #ffffff;
+    position: relative;
+    left: 315px;
+}
+
+.shop-img{
+    width: 120px;
+    height: 120px;
+    border-radius: 23px;
+    background-color: #ea6060;
+    position : absolute;
+    top : 25px;
+    left : 25px;
+}
+
+
+.shop-tagline{
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  position: absolute;
+  left: 196px;
+}
+
+
+.shop-address{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    left: 200px;
+    top: 90px;
+}
+
+
+.Adress-heading{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+    left: 201px;
+    top: 60px;
+}
+  
+
+.shop-border{
+    height: 0;
+    border: solid 1px #dedfe5;
+    position : absolute;
+    width: 680px;
+    height: 0;
+    border: solid 1px #dedfe5;
+    position: absolute;
+    top: 176px;
+    left: 20px;
+}
+
+
+
+.shop-price-options{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  position: absolute;
+  left: 25px;
+  top: 180px;
+}
+
+
+
+.shop-price-options-value{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    left: 200px;
+    top: 180px;
+  }
+
+.Shop-2{
+    width: 720px;
+    height: 265px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color : #ffffff;
+    position: relative;
+    left: 315px;
+    top:34px;
+}
+
+
+.bottom-navigation-bar{
+
+    position: absolute;
+    left: 530px;
+    top: 600px;
+    display:inline-block;
+}
+  
+.button-design{
+ height: 36px;
+ width: 36px;
+ background-color: #ffffff;
+ border: solid 1px #8c96ab;
+ border-radius: 7px;
+ font-family: Poppins;
+ display: inline-block;
+font-size: 20px;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: normal;
+text-align: center;
+color: #8c96ab;
+}
