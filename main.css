@@ -361,17 +361,16 @@ body{
 }
 
 
-.bottom-navigation-bar{
-
+/* .bottom-navigation-bar{
     position: absolute;
     left: 530px;
     top: 600px;
     display:inline-block;
-}
+} */
   
 .button-design{
- height: 36px;
- width: 36px;
+ height: 30px;
+ width: 30px;
  background-color: #ffffff;
  border: solid 1px #8c96ab;
  border-radius: 7px;
